@@ -1,0 +1,51 @@
+{
+"location": "Bastos",
+  "menu": {
+  "The famous": {
+  "Ndole Royal": 19500,
+  "Demi poulet braise": 14000,
+  "Pates a la bolognaise": 14000,
+  "Margarita Pizza": 12000,
+  "Cheese Burger": 15000,
+  "Shawarma viande": 17500,
+  "jus naturel frais": 4500,
+  "smoothies & Milkshake": 11000,
+  "Cappuccino": 4000
+   }
+  },
+  "Continent 237": {
+    "location": "Nouvelle Route Bastos",
+    "menu": {
+      "Eru & Water Fufu": 12000,
+      "Koki & Plantains": 12500,
+      "Pizza bolognaise": 9000,
+      "Cocktail": 8500,
+      "Soda": 2500,
+      "Smoothies": 8000,
+      "Jus de Fruits Naturel": 3000
+    }
+  },
+  "The Canteen's": {
+    "location": "Dragage",
+    "menu": {
+      "Poulet au Four": 13500,
+      "Ndole Royal": 12500,
+      "Poisson au Four": 14000,
+      "Poulet DG": 13000
+
+    }
+  },
+  "Seven Hills": {
+    "location": "Carrefour PJ",
+    "menu": {
+      "Hamburger": 5000,
+      "Crunchy Chicken Burger": 6500,
+      "Mac n Cheese": 9000,
+      "7 Hills Pizza": 11000,
+      "Shawarma Boeuf ou Poulet": 5000,
+      "Cocktails non-alcoholic": 4000,
+      "Smoothies": 4000,
+      "Milkshake": 6000
+    }
+  }
+}
